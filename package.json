@@ -24,6 +24,10 @@
     "grunt-usemin": "~2.1.0",
     "grunt-wiredep": "^1.8.0",
     "jshint-stylish": "~0.1.5",
+    "karma": "^0.12.22",
+    "karma-chrome-launcher": "^0.1.4",
+    "karma-cli": "0.0.4",
+    "karma-jasmine": "^0.1.5",
     "load-grunt-tasks": "~0.4.0",
     "time-grunt": "~0.3.1"
   },
